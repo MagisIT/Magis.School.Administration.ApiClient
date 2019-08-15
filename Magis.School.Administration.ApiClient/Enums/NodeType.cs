@@ -7,6 +7,6 @@ namespace Magis.School.Administration.ApiClient.Enums
     public enum NodeType
     {
         Master = 0,
-        Slave = 1
+        Runner = 1
     }
 }
